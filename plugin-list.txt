@@ -1,0 +1,12 @@
+https://github.com/chriskempson/base16-vim.git
+https://github.com/scrooloose/nerdtree.git
+https://github.com/python-mode/python-mode.git
+https://github.com/vim-syntastic/syntastic.git
+https://github.com/vim-airline/vim-airline.git
+https://github.com/vim-airline/vim-airline-themes
+git://github.com/altercation/vim-colors-solarized.git
+https://github.com/airblade/vim-gitgutter.git
+https://github.com/fatih/vim-go.git
+https://github.com/nelstrom/vim-markdown-folding.git
+https://github.com/jistr/vim-nerdtree-tabs.git
+https://github.com/mhinz/vim-startify.git
